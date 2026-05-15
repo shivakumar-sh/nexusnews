@@ -1,0 +1,20 @@
+A store gives a 20% discount on a $50 item. After that, 10% tax is added.
+What is the final price?
+
+Think step by step before answering.
+
+
+
+Start with the original price: **$50**
+
+1. Apply the 20% discount:
+
+   * 20% of 50 = 0.20 × 50 = 10
+   * Discounted price = 50 − 10 = **$40**
+
+2. Add 10% tax to the discounted price:
+
+   * 10% of 40 = 0.10 × 40 = 4
+   * Final price = 40 + 4 = **$44**
+
+So, the final price is **$44**.

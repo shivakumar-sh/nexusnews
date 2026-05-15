@@ -1,0 +1,6 @@
+Translate this sentence into French:
+
+"I love learning AI."
+
+
+“J’aime apprendre l’IA.”

@@ -1,0 +1,30 @@
+Classify the sentiment.
+
+Text: "I absolutely loved the movie."
+Sentiment: Positive
+
+Text: "The food was terrible."
+Sentiment: Negative
+
+Text: "The service was okay."
+Sentiment:
+
+
+Sentiment: Neutral
+
+
+
+
+
+English: Hello
+Spanish: Hola
+
+English: Thank you
+Spanish: Gracias
+
+English: Good morning
+Spanish:
+
+
+
+Spanish: Buenos días
